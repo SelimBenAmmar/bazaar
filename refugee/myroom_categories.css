@@ -7,3 +7,7 @@ body
 {
 	background: url("../img/backroom3.jpg") no-repeat center center fixed ;
 }
+
+a {
+  color :white;
+}
