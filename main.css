@@ -7,6 +7,12 @@ body {
 	background-color:  rgb(38,169,224);
 }
 
+#loginBtn {
+	width: 100%;
+	color: white;
+	font-weight: bold;
+	background-color: rgb(38,169,224);
+}
 .position-btn
 {
 	position: absolute;
