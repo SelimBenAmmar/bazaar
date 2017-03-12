@@ -21,11 +21,10 @@ body, footer {
   margin-top: 0;
 }
 
-.img-center-top {
-  position: absolute;
-  top: 10%;
-  left: 40%;
-  width: 20%;
+.img-shop {
+    max-height: 128px;
+    max-width: 128px;
+    margin-bottom: -4em;
 }
 
 .nom {
