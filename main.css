@@ -8,12 +8,28 @@ body, footer {
   	color: white;
 }
 
+.bgw {
+  background-color: white;
+  color:  rgb(38,169,224);
+}
+
 .w70 {
   width: 60%;
 }
 
 .nmt {
   margin-top: 0;
+}
+
+.img-center-top {
+  position: absolute;
+  top: 10%;
+  left: 40%;
+  width: 20%;
+}
+
+.nom {
+  margin: 0;
 }
 
 #loginBtn, #searchBtn {
@@ -24,6 +40,7 @@ body, footer {
 }
 
 #cartBtn {
+  font-size: 1.6em;
 	color: white;
 	font-weight: bold;
 	background-color: rgb(38,169,224);
