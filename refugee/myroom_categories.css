@@ -8,6 +8,14 @@ body
 	background: url("../img/backroom3.jpg") no-repeat center center fixed ;
 }
 
-a {
-  color :white;
+.titles1
+{
+  color: white;
+  font-size: 220% ;
+}
+
+.titles2
+{
+  color: white;
+  font-size: 120% ;
 }
