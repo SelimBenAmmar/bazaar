@@ -1,0 +1,9 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+body
+{
+	background: url("backroom3.jpg") no-repeat center center fixed ;
+}
