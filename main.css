@@ -32,6 +32,10 @@ body, footer {
   margin: 0;
 }
 
+.nomb {
+  margin-bottom: 0;
+}
+
 #loginBtn, #searchBtn {
 	width: 100%;
 	color: white;
