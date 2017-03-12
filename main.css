@@ -39,6 +39,11 @@ footer img {
   margin-bottom: 0;
 }
 
+.supercontainer {
+  height: 100%;
+  display: table;
+}
+
 #loginBtn, #searchBtn {
 	width: 100%;
 	color: white;
