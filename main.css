@@ -12,8 +12,18 @@ body, footer {
   width: 60%;
 }
 
+.nmt {
+  margin-top: 0;
+}
+
 #loginBtn, #searchBtn {
 	width: 100%;
+	color: white;
+	font-weight: bold;
+	background-color: rgb(38,169,224);
+}
+
+#cartBtn {
 	color: white;
 	font-weight: bold;
 	background-color: rgb(38,169,224);
