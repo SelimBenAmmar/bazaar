@@ -1,0 +1,26 @@
+body
+{
+	background: url("1.jpg") no-repeat center center fixed ;
+    background-size: 100% 100%;
+}
+
+
+.position-btn
+{
+	position: absolute;
+	top : 87%;
+	left: 45%;
+}
+
+.position-form
+{
+	position: absolute;
+	margin-left: 35%;
+	top: 60%; 
+}
+
+.button
+{
+	font-size: 1.75vw;
+	color : white;
+}
